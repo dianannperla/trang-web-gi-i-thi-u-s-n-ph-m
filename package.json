@@ -1,6 +1,6 @@
 {
   "name": "trang-web-giới-thiệu-sản-phẩm",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Khung frontend cho trang web giới thiệu sản phẩm",
   "main": "index.js",
   "scripts": {
